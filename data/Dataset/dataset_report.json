@@ -1,0 +1,26 @@
+{
+    "RMFD": {
+        "masked": 1945,
+        "unmasked": 1945
+    },
+    "CMFD": {
+        "masked": 67048,
+        "unmasked": 0
+    },
+    "MAFA": {
+        "masked": 2500,
+        "unmasked": 2520
+    },
+    "TOTAL": {
+        "masked": 4465,
+        "unmasked": 4465
+    },
+    "train": {
+        "masked": 3572,
+        "unmasked": 3572
+    },
+    "val": {
+        "masked": 893,
+        "unmasked": 893
+    }
+}

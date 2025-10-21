@@ -1,0 +1,15 @@
+Place the Dataset Accordingly
+
+data\Dataset\test\Mask\0_0_+·+ó 2020-02-24 203653.png,.......,etc
+data\Dataset\test\No_mask\0_0_baijingting_0013.jpg,...........,etc
+
+data\Dataset\train\Mask\0_0_--++.png,...........,etc
+data\Dataset\train\No_mask\0_0_aidai_0014.jpg,...........,etc
+
+data\Dataset\val\Mask\0_0_+·+ó 2020-02-24 203653.png,.......,etc
+data\Dataset\val\No_mask\0_0_baijingting_0013.jpg,...........,etc
+
+
+
+
+    

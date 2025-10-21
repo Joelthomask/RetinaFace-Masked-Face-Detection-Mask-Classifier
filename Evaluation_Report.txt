@@ -1,0 +1,10 @@
+=== Mask Classifier Evaluation Report ===
+
+Mask      : 915/925 correct,  2 wrong,  8 skipped
+No_mask   : 921/924 correct,  2 wrong,  1 skipped
+
+Overall: 1836/1849 correct, 4 wrong, 9 skipped
+Accuracy: 99.3%
+
+Test Dataset:
+Retinaface_masked_training\data\Dataset\test

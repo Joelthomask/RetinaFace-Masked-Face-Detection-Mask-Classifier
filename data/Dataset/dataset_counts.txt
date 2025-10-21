@@ -1,0 +1,15 @@
+
+=== TRAIN ===
+Mask: 7278
+No_mask: 7279
+TOTAL: 14557
+
+=== VAL ===
+Mask: 926
+No_mask: 929
+TOTAL: 1855
+
+=== TEST ===
+Mask: 925
+No_mask: 924
+TOTAL: 1849
