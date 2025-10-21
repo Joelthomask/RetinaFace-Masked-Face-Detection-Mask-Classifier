@@ -92,6 +92,7 @@ Checkpoints are saved in `checkpoints/` as:
 
 All The Trained weights are available [here](checkpoints).
 
+users must have Git LFS installed to download large weights.
 Evaluate your trained model:
 
 ```bash
